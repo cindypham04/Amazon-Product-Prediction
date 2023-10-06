@@ -1,1 +1,1 @@
-# Amazon-Recommender-System
+# Amazon-Product-Prediction
